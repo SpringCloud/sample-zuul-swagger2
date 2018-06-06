@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/test-passing-yellowgreen.svg)
+![image](https://img.shields.io/badge/test-passing-green.svg)
 
 # sample-zuul-swagger2
 :palm_tree: A sample for zuul-swagger2 to test original service
