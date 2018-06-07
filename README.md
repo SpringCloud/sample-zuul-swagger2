@@ -22,7 +22,7 @@ public class SwaggerConfig {
 			properties.getRoutes().values().stream()
 					.forEach(route ->
 							resources
-									.add(createResource(route.getServiceId(), route.getId(), "2.0")));
+									.add(createResource(route.getServiceId(), route.getServiceId(), "2.0")));
 			return resources;
 		};
 	}
