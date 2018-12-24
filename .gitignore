@@ -1,0 +1,30 @@
+# Created by .ignore support plugin (hsz.mobi)
+target
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### BUILD ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+bin/
+out/
+.DS_Store
+/*/target
+target
+/halo-admin-backend/target
